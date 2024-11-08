@@ -1,0 +1,10 @@
+Nom de la Colonne,Description,Type de Données,Exemple(s) de Valeurs,Valeurs Uniques / Catégories
+title,le titre de l annonce,object,appartement à louer à Temara,NaN
+price,prix,object,300 DH,NaN
+location,localisation de l appartement,object,Meknès,NaN
+type_de_vente,louer ou vendre,object,"Appartements, à vendre",NaN
+salon,nombre de salon,float64,2,NaN
+chamber,nombre de chamber,float64,4,NaN
+toilete,nombre de toilete,float64,1,NaN
+area,la surface de l appratement,float64,400,NaN
+link,le lien de l annonce,object,https://www.avito.ma/vi/55593495.htm,NaN
